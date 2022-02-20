@@ -21,6 +21,8 @@ go into mysql shell and source db/schema.sql then quit, next in the terminal npm
 
 use Insomnia to check all Get, Put, Post and Delete
 
+https://user-images.githubusercontent.com/92942302/154851910-a7064973-e667-42ca-9c50-9c27b0882f47.mp4
+
 ## License
 
 none
